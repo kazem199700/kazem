@@ -21,5 +21,5 @@ cd $THIS_DIR
   cd ..
   chmod +x tg
   lua ./bot/bot.lua
-  chmod +x kazem.sh
-  ./kazem.sh
+  chmod +x TH3BOSS.sh
+  ./TH3BOSS.sh
