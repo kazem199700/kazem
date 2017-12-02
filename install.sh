@@ -21,5 +21,5 @@ cd +ACQ-THIS+AF8-DIR
   cd ..
   chmod  tg
   lua ./bot/bot.lua
-  chmod  kazem.sh
+   chmod +x kazem.sh
   ./kazem.sh
